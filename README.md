@@ -68,4 +68,5 @@ Simple Server-Client Chat Room using TCP sockets is java based with GUI implemen
   - `Client.java`: Main client logic
   - `GuiChatt.java`: GUI for the client
   - `Prompt.java`: Initial connection prompt for the client
-    (run first `serverGui.java` and then `chatClientLauncher.java`)
+  
+  (run first `serverGui.java` and then `chatClientLauncher.java`)
