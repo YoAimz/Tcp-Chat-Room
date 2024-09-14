@@ -7,16 +7,19 @@ Simple Server-Client Chat Room using TCP sockets is java based with GUI implemen
 ## Application Preview
 ### Server-GUI
 ![server-gui](https://github.com/user-attachments/assets/089582b9-59fc-43f4-8b1f-f76aced2410e)
-Server interface for starting and managing the server
 
+Server interface for starting and managing the server
+***
 ### Client-Connection-GUI
 ![client-connection-gui](https://github.com/user-attachments/assets/91e675d6-6871-4547-aac5-35d18777131e)
-Client interface for connecting to the chat server
 
+Client interface for connecting to the chat server
+***
 ### Chat-Interface
 ![chat-interface](https://github.com/user-attachments/assets/7a5d2257-7455-4302-a525-fb303650b975)
-Main interface for sending messages and viewing users in the chat room
 
+Main interface for sending messages and viewing users in the chat room
+***
 ## Features
 
 - Client-server architecture using Java socket programming
